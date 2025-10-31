@@ -1,0 +1,1 @@
+C:\Users\jdawg\StudioProjects\DnDGame\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\2d4g725d\obj\arm64-v8a
